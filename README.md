@@ -1,2 +1,3 @@
 # google_clone
-Es un proyecto personal donde hago un clone de Google
+Este un proyecto personal donde hago un clone de Google
+Inicialmente utilizando HTML y CSS.
